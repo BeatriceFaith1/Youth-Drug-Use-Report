@@ -1,3 +1,5 @@
+My Power BI dashboard
+You can view the Live Dashboard here: https://app.powerbi.com/view?r=eyJrIjoiN2Y1YjgzM2MtMjEyYy00MGQzLTg2NDQtZTJiZjBiM2ExYzQ5IiwidCI6ImViMzE2NWVhLWM5ZmMtNDIwZi04ZmE1LTBmZWNiYTYwYWJhMCJ9
 # Youth-Drug-Use-Report
 This project analyzed factors influencing youth smoking and drug experimentation, including counseling, parental supervision, media, peer influence, age, gender, and socioeconomic status. The insights support policymaking, mental health promotion, and strategy development in global public health interventions.
 Project Background and Rationale
